@@ -62,6 +62,15 @@ Busco constantemente construir código limpo e resolver problemas complexos com 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Php" 
+    title="Php"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
 <img 
     align="left" 
     alt="Python" 
